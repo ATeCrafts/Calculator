@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.button {
+    font-size: 150%;
+    width: 3%;
+}
+.button:hover {
+    color: red;
+}
+
+#display {
+    color: white;
+    font-size: 175%;
+    text-align: center;
+}
