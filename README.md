@@ -21,3 +21,9 @@ A calculator, literally.
 
 # Version
 This is version 2.0 of the calculator. Future versions will contain greater content.
+
+# Changelog
+Version 1.0 -> Version 2.0:
+1. Rounding (of decimal places)
+2. π, ², ³, ʸ, √x, ³√x, ʸ√x, % operators
+3. AC and Delete
