@@ -15,6 +15,9 @@ A calculator, literally.
 3. Equals
 4. Decimals
 5. Button Click Sound
+6. Rounding (of decimal places)
+7. π, ², ³, ʸ, √x, ³√x, ʸ√x, % operators
+8. AC and Delete
 
 # Version
-This is version 1.0 of the calculator. Future versions will contain greater content.
+This is version 2.0 of the calculator. Future versions will contain greater content.
